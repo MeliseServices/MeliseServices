@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Machine Learning
 - 🌱 I’m currently learning ... Machine Learning Python and R Coding
 - 💞️ I’m looking to collaborate on ...Chat Bots
-- 📫 How to reach me ...MeliseServices@gmail.com
+- 📫 How to reach me ...Melise.Services@gmail.com
 
 <!---
 MeliseServices/MeliseServices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
