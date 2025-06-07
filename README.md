@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Machine Learning
 - Developing Experimental Quantum_Codeflow and OmicronIota_Development
 - 🌱 I’m currently learning ... Machine Learning Python and R Coding
-- 💞️ I’m looking to collaborate on ...Chat Bots
+- 💞️ I’m looking to collaborate on ...Chat Bots and Quantum Codes I create
 - 📫 How to reach me ...Melise.Services@gmail.com
 
 <!---
